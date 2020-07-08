@@ -270,22 +270,23 @@ hr{
 @media(max-width:499px)
 {
 	#top-container h1{
-		font-size: 5rem;
+		font-size: 2.5rem;
 	}
 
 	#top-container h2{
-		font-size: 2rem;
+		font-size: 1.1rem;
 	}
 
 	.top-cloud{
-		left:10.4rem;
+		left:28%;
 	}
 
 	.mountain{
-		width:30rem;
+		width:70%;
 	}
 
 	.intro{
 		width: 16rem;
 	}
 }
+
