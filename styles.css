@@ -220,7 +220,7 @@ hr{
 @media(max-width: 700px)
 {
 	.skill-row{
-		width: 60%;
+		width: 50%;
 	}
 
 	.skill-row h3{
